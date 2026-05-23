@@ -106,7 +106,7 @@ Upload your document → Run all cells → Start asking questions!
 
 **Surya** — building AI projects one notebook at a time 🚀
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/)
+- 🔗 https://www.linkedin.com/in/surya-teja-uta-985498315/
 - ⭐ Star this repo if you found it helpful!
 
 ---
